@@ -1,0 +1,35 @@
+#main {
+	height: 100%;
+	width: 100%;
+}
+
+#header {
+	width: 100%;
+	position: absolute;
+	height: 30px;
+	background-color:#c8c9c9;
+	left: 0px;
+	top: 0px;
+}
+#image {
+	max-width: 100%;
+	height: auto;
+	left: 0px;
+	
+}
+
+#img-div {
+	top: 30px;
+	width: 100%;
+	position: absolute;
+	left: 0px;
+}
+
+#img-caption {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 200%;
+	font-weight: bold;
+}

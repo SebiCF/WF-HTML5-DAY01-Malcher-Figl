@@ -1,0 +1,19 @@
+div {
+	border: 1px solid black;
+	margin: 5px;
+}
+
+#third p {
+	
+}
+
+h1, h3{
+	
+}
+
+#second {
+	
+}
+#first > p {
+	font-size: 140%;
+}
